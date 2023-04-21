@@ -1,3 +1,5 @@
+## Link to live webpage: https://staceyvanyo-html-resume.netlify.app/
+
 # LAB: HTML Resume
 
 ## Get Started
